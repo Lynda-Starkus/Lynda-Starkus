@@ -139,19 +139,6 @@
 </details>
 
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/Lynda-Starkus/readme-typing-svg/issues/100) in [Lynda-Starkus/readme-typing-svg](https://github.com/Lynda-Starkus/readme-typing-svg)
-2. 🗣 Commented on [#626](https://github.com/nextcord/nextcord/issues/626) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-3. 🗣 Commented on [#621](https://github.com/nextcord/nextcord/issues/621) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#607](https://github.com/nextcord/nextcord/issues/607) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🗣 Commented on [#621](https://github.com/nextcord/nextcord/issues/621) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-<!--END_SECTION:activity-->
-</details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lynda-Starkus' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Lynda-Starkus&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
