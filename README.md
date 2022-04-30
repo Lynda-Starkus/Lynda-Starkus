@@ -4,10 +4,7 @@
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif">
-  <a href="https://readme-typing-svg.herokuapp.com?font=fira&size=25&color=F75C7E&center=true&width=600&height=100&lines=Computer+systems+student+at+ESI+Algiers;Fast+and+eternal+learner;Works+in+AI%2C+Devops+and+software+dev;I+love+cool+challenges+%5E%5E"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira&size=25&color=F75C7E&center=true&width=600&height=100&lines=Computer+systems+student+at+ESI+Algiers;Fast+and+eternal+learner;Works+in+AI%2C+Devops+and+software+dev;I+love+cool+challenges+%5E%5E)](https://git.io/typing-svg)
 
 <!-- Social icons section -->
 <p align="center">
