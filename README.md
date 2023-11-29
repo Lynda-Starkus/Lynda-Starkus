@@ -1,9 +1,8 @@
 <h3 align="center">
-  Welcome to Belkessa Linda's profile!
+  Hey buddy!
 </h3>
 <p align="center">
-<img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif">
-<img src ="https://readme-typing-svg.herokuapp.com?font=fira&size=25&color=F75C7E&center=true&width=600&height=100&lines=Computer+systems+student+at+ESI+Algiers;Fast+and+eternal+learner;Works+in+AI%2C+Devops+and+software+dev;I+love+cool+challenges+%5E%5E">
+<img src="https://cdn.dribbble.com/users/1531086/screenshots/3578392/media/b23a703a2b667ab3a32270c9ed70c420.gif">
 </p>
 
 
