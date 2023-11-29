@@ -2,7 +2,7 @@
   Hey buddy!
 </h3>
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1531086/screenshots/3578392/media/b23a703a2b667ab3a32270c9ed70c420.gif">
+<img src="[https://cdn.dribbble.com/users/1531086/screenshots/3578392/media/b23a703a2b667ab3a32270c9ed70c420.gif](https://drive.google.com/file/d/19hYS_D2hBBVmjVqWwmv5vkONcIeYX0WF/view?usp=sharing)">
 </p>
 
 
