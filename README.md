@@ -1,10 +1,6 @@
 <h3 align="center">
   Hey buddy!
 </h3>
-<p align="center">
-<img src="https://drive.google.com/file/d/19hYS_D2hBBVmjVqWwmv5vkONcIeYX0WF/view?usp=sharing">
-</p>
-
 
 
 <!-- Social icons section -->
