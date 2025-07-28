@@ -5,7 +5,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/lynda.belk.7505/"><img width="32px" alt="Facebook" title="Facebook" src="https://www.facebook.com/images/fb_icon_325x325.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/linda-belkessa/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
